@@ -1,1 +1,2 @@
 It is my second text file.
+Trying rebase concept.
